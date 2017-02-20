@@ -1,0 +1,9 @@
+D:\EKOODI\Caticketpv\Caticketpv\bin\Debug\Caticketpv.exe
+D:\EKOODI\Caticketpv\Caticketpv\bin\Debug\Caticketpv.pdb
+D:\EKOODI\Caticketpv\Caticketpv\obj\x86\Debug\Caticketpv.exe
+D:\EKOODI\Caticketpv\Caticketpv\obj\x86\Debug\Caticketpv.pdb
+C:\Users\ekoodi\Desktop\EKOODI\Caticketpv\Caticketpv\obj\x86\Debug\Caticketpv.exe
+C:\Users\ekoodi\Desktop\EKOODI\Caticketpv\Caticketpv\obj\x86\Debug\Caticketpv.pdb
+C:\Users\ekoodi\Desktop\EKOODI\Caticketpv\Caticketpv\bin\Debug\Caticketpv.exe
+C:\Users\ekoodi\Desktop\EKOODI\Caticketpv\Caticketpv\bin\Debug\Caticketpv.pdb
+C:\Users\ekoodi\Desktop\EKOODI\Caticketpv\Caticketpv\obj\x86\Debug\Caticketpv.csprojResolveAssemblyReference.cache
